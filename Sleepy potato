@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> The sleepy potato
+		</title>
+	</head>
+	<body> <a href= “giphy.gif”>Lookit!!</a>
+			
+		<h1>The sleeeeeeeeepy potato</h1>
+		<p>I am a sleeeepy potato
+	<img src= “giphy.gif”>
+		</p>
+	<table style = “width:100%”>
+			<tr>
+				<th>Hours of sleeping</th>
+			</tr>
+			<tr>
+				<td>24/7</td>
+			<ul>
+			    <li>Sleep</li>
+			    <li>Sleep</li>
+			</ul>
+    </body>
+</html>
